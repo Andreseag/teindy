@@ -1,4 +1,5 @@
 const App = () => {
+  const nuevaVariable = 'Holis depronto esto va a generar un conflicto'
   return (
     <div className="App">
       <h1>Hola mundoooo</h1>
