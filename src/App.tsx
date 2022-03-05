@@ -1,5 +1,5 @@
 const App = () => {
-  let str = 'hola mundo'
+  let strNuevo = 'hola mundo'
 
   return (
     <div className="App">
