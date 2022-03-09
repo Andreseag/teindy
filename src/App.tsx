@@ -1,5 +1,5 @@
 import './index.css'
-import MiComponent from '@/components/MiComponent'
+import MiComponent from '@components/MiComponent'
 
 const App = () => {
   const submit = () => {
