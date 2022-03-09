@@ -1,6 +1,6 @@
 const MiComponent = () => {
   return (
-    <div>MiComponent</div>
+    <div>Oyeeee mi perro</div>
   )
 }
 

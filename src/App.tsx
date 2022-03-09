@@ -1,4 +1,5 @@
 import './index.css'
+import MiComponent from '@/components/MiComponent'
 
 const App = () => {
   const submit = () => {
@@ -16,6 +17,7 @@ const App = () => {
           <button className='bg-cyan-500 shadow-lg' onClick={submit}>Subscribe</button>
         </form>
       </div>
+      <MiComponent />
     </div>
   )
 }
